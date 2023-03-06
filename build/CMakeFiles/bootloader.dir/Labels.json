@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "G:/HUST/Microprocessor/WeAir/Software/weair_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
