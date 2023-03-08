@@ -1,8 +1,8 @@
-/**
+/*
  * @file main.c
  * @author Nguyen Huy Hai ( @20203898 ) 
  * @brief Main file of WeAir project
- * @version 0.1
+ * @version 1.0
  * @date 2023-03-03
  * 
  * @copyright Copyright (c) 2023
